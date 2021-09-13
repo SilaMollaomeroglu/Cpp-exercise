@@ -1,1 +1,1 @@
-# C++ Simple Game
+# C++ Simple Minesweeper Game
